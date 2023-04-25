@@ -1,36 +1,29 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Who am I?"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Emelie is a very [cool person](https://youtu.be/XAu5MuTGBC8).
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/emelie.png" alt="Emelie writing on a whiteboard">
 </div>
 
-## Tech Stack
+## Education and Activities
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+At <font color="text-yellow">Roslyn High School</font> in Long Island, New York, I held leadership positions in my three areas of interest: human biology, language, and music! When I attend Brown in the fall, I hope to continue pursuing these interests through coursework and student organizations.
 
-## Features
+- Roslyn High School (2019-2023): Science Olympiad (Biology Captain), World Language Honor Society (President), Marching Band (Low Winds Captain), Science Quiz Bowl, Varsity Quiz Bowl, Science National Honor Society, Tri-M Music Honor Society
+- Brown University (2023-2027): TBD ʕ •ᴥ•ʔ
 
-Here are certain features of this site.
+## Experience
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Here is some of the work I've done/do outside of school. As you may be able to tell, public service and biomedical research are where I focus a lot of my efforts. After I graduate from Brown, I aim to pursue an MD/PhD to become a physician-scientist. Currently, I'm very interested in the intersection of pathogen genomics and environmental epidemiology (╯✧▽✧)╯.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- Multiple District 20 President of New York State and Bermuda @ [LEO Club International](https://www.lionsclubs.org/en/discover-our-clubs/about-leos)
+- Alcohol-Induced Neurotoxicity Research Intern @ [The Feinstein Institutes for Medical Research](https://feinstein.northwell.edu/)
+- Tournament Director @ [the International Biology Bowl](https://biologybowl.org/)
+- Environmental Epidemiology Research Intern @ [the Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)
+- Plastic Surgeon Shadow @ [V Plastic Surgery of Monmouth County](https://www.doctorvnj.com/)
+
+Feel free to reach me by [email](mailto:emelie_nguyen@brown.edu)!
