@@ -1,16 +1,16 @@
 ---
-author: Sat Naing
-pubDatetime: 2023-01-30T15:57:52.737Z
-title: AstroPaper 2.0
+author: Emelie Nguyen
+pubDatetime: 2023-04-24T15:57:52.737Z
+title: The Male U-Curve vs Female Bell Curve
 postSlug: astro-paper-2
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - release
-description: AstroPaper with the enhancements of Astro v2. Type-safe markdown contents, bug fixes and better dev experience etc.
+description: Intelligence, emotion, and orgasm physiology are just some examples.
 ---
 
-Astro 2.0 has been released with some cool features, breaking changes, DX improvements, better error overlay and so on. AstroPaper takes advantage of those cool features, especially Content Collections API.
+In the fifth grade, my mother explained to me the male versus female IQ distribution. Citing her sociology lecture at St. John's University, the IQ distribution of men resembles a U-shaped curve, that is, the majority of men tend to be very above average or very below average in terms of intelligence. For women on the other hand, their IQ distribution represents a bell-shaped curve. The majority of women lie at or near the average, with few being significantly above or below average. To be honest, I haven't found any formal research supporting her claim since then, but I've grown to see these distributions in many other dichotomies of male versus female behavior.
 
 <!-- ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png) -->
 
