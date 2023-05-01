@@ -12,7 +12,7 @@ ogImage: ""
 description: How you can succeed academically and healthily.
 ---
 
-> "Mens sana in corpore sano" (a healthy mind in a healthy body)
+> 'Mens sana in corpore sano' (a healthy mind in a healthy body)
 
 Recovering from an eating disorder is a difficult process that requires dedication and commitment. It can be particularly challenging to manage while also trying to succeed in school. As someone who had to manage both of these simultaneously, I know how important it is to prioritize both recovery and academic success. In this week’s post, I will discuss some of the strategies I have used to stay healthy while achieving in school.
 
