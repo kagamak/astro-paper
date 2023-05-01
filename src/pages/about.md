@@ -11,7 +11,7 @@ Emelie is a very [cool person](https://youtu.be/XAu5MuTGBC8).
 
 ## Education and Activities
 
-At <font color="text-yellow">Roslyn High School</font> in Long Island, New York, I held leadership positions in my three areas of interest: human biology, language, and music! When I attend Brown in the fall, I hope to continue pursuing these interests through coursework and student organizations.
+At Roslyn High School in Long Island, New York, I held leadership positions in my three areas of interest: human biology, language, and music! When I attend Brown in the fall, I hope to continue pursuing these interests through coursework and student organizations.
 
 - Roslyn High School (2019-2023): Science Olympiad (Biology Captain), World Language Honor Society (President), Marching Band (Low Winds Captain), Science Quiz Bowl, Varsity Quiz Bowl, Science National Honor Society, Tri-M Music Honor Society
 - Brown University (2023-2027): TBD ʕ •ᴥ•ʔ
