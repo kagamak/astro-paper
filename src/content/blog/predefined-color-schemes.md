@@ -15,7 +15,7 @@ description:
 
 It is currently 9 AM, and you have doctor’s appointment at 4 PM. Until the clock strikes 4, you sit at your desk aiming to get some work done. But after the seven hours elapse, it seems that you’ve made absolutely zero progress on anything. Instead, you spend the day waiting. Why is this?
 
-### What is waiting mode?
+## What is waiting mode?
 
 > “It’s like my mind enters a mental queue for that task, and if I leave to do something else, I lose my spot in the queue.”
 
@@ -32,13 +32,13 @@ People who experience waiting mode also tend to be sufferers of disorders like:
 
 One factor that contributes to the anxiety around getting things done is the idea of choice paralysis. When faced with too many choices or too many things to do, people with ADHD can become overwhelmed and struggle to make decisions. This can lead to a cycle of indecision and avoidance, as we are afraid of making the wrong choice or not being able to complete all of the tasks.
 
-### How can we stop it?
+## How can we stop it?
 
 So, how can we combat waiting mode and procrastination? One solution is to break tasks down into smaller, more manageable steps. By focusing on one small step at a time, we can reduce the overwhelm and make progress towards our goals. To make sure we take the initiative with these small tasks, a strategy I have found to be effective is using a [25-minute kitchen timer](https://www.amazon.com/Mechanical-Processing-Classroom-Activities-Timeouts/dp/B007UO4SAW/ref=sr_1_7?keywords=kitchen+timer&qid=1682968059&sr=8-7) to time-block my work with 5-minute breaks (this is known as the Pomodoro Technique). Additionally, I recommend using a free full-day calendar like Google Calendar to plan the schedule tomorrow the day before. However, make sure you known your limits and don’t try to achieve too many goals in too little time. With a reasonable amount of work and appropriate breaks, we will stay accountable and motivated. 
 
 Furthermore, setting up a designated workspace to minimize distractions is hugely beneficial. During the pandemic (and admittedly every now and then), I often found myself laying in bed with my laptop on pillow, swearing that I would complete my essay by midnight. Alas, I would wake up to a black screen after a deep 10-hour sleep. To prevent this terrible phenomenon, I recommend doing your work in a different room entirely, whether it be your kitchen, living room, sibling’s room, or the school library. For me, personally, even just the sight of my bed is too tempting. ಥ‿ಥ
 
-### Takeaways
+## Takeaways
 
 Finally, it's important to remember that waiting mode and procrastination are not personal failings. ADHD can make certain tasks more difficult, and it's completely okay to ask for help or accommodations when needed. Whether it's reaching out to a friend or family member for support or seeking professional help, there are tremendous resources available to help us manage these symptoms and live fulfilling lives.
 
