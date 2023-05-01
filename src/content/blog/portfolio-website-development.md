@@ -3,7 +3,7 @@ title: On Being Asian and Mentally Ill
 author: Emelie Nguyen
 pubDatetime: 2022-04-17T16:55:12.000+00:00
 postSlug: how-do-i-develop-my-portfolio-and-blog
-featured: true
+featured: false
 draft: false
 tags:
   - aapi-experience
