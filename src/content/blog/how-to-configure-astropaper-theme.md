@@ -13,4 +13,3 @@ ogImage: ""
 description: How you can succeed academically and healthily.
 ---
 
-College admissions are becoming increasingly competitive, and some of us resort to coping in unhealthy ways.
