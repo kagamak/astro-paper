@@ -1,6 +1,6 @@
 ---
 author: Emelie Nguyen
-pubDatetime: 2023-05-1T15:57:52.737Z
+pubDatetime: 2023-04-24T15:57:52.737Z
 title: Mindful Mondays: How to Fix "Waiting" Mode
 postSlug: astro-paper-2
 featured: true
