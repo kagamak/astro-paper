@@ -3,7 +3,7 @@ author: Emelie Nguyen
 pubDatetime: 2023-04-24T12:13:24Z
 title: How to Fix "Waiting" Mode
 postSlug: predefined-color-schemes
-featured: false
+featured: true
 draft: false
 tags:
   - habits
