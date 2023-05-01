@@ -10,7 +10,7 @@ tags:
   - academics
 ogImage: ""
 description:
-  How you can overcome procrastination and maintain the focus bubble
+  How you can overcome procrastination and maintain the focus bubble.
 ---
 
 > The average human attention span is now shorten than that of a goldfish.
