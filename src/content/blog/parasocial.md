@@ -2,7 +2,7 @@
 author: Emelie Nguyen
 pubDatetime: 2023-05-08T18:58:39Z
 title: Dissolving Parasocial Relationships
-postSlug: predefined-color-schemes
+postSlug: dissolving-parasocial
 featured: false
 draft: false
 tags:
