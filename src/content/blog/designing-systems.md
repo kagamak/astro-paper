@@ -2,7 +2,7 @@
 author: Emelie Nguyen
 pubDatetime: 2023-05-01T05:27:01Z
 title: Designing Systems for Productivity on Tough Days
-postSlug: predefined-color-schemes
+postSlug: designing-systems-for
 featured: false
 draft: false
 tags:
