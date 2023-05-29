@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Who am I?"
 ---
 
-Emelie is a very [cool person](https://youtu.be/XAu5MuTGBC8).
+My name is Emelie and I am 18 years old.
 
 <div>
   <img src="/assets/emelie.png" alt="Emelie writing on a whiteboard">
