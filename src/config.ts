@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Emelie Nguyen",
   desc: "Emelie Nguyen's Blog",
   title: "Home",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "emelieUN.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
