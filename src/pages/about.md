@@ -6,7 +6,7 @@ title: "Who am I?"
 My name is Emelie and I am 18 years old.
 
 <div>
-  <img src="/assets/emelie.png" alt="Emelie writing on a whiteboard">
+  <img src="/assets/emelieUN.jpg" alt="Emelie at the United Nations Headquarters.">
 </div>
 
 ## Education and Activities
