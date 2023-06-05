@@ -2,7 +2,7 @@
 title: On Being Asian and Mentally Ill
 author: Emelie Nguyen
 pubDatetime: 2022-04-03T16:55:12.000+00:00
-postSlug: how-do-i-develop-my-portfolio-and-blog
+postSlug: on-being-asian-and-mentally-ill
 featured: false
 draft: false
 tags:
