@@ -2,7 +2,7 @@
 author: Emelie Nguyen
 pubDatetime: 2023-05-15T23:43:24Z
 title: The Fable of Sustainable Success
-postSlug: fueling-productivity
+postSlug: the-fable-of-sustainable-success
 featured: false
 draft: false
 tags:
