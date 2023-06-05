@@ -3,7 +3,7 @@ author: Emelie Nguyen
 pubDatetime: 2023-04-17T04:58:53Z
 title: Managing ED Recovery with Academic Demands
 postSlug: managing-ed-recovery-with-academic-demands
-featured: false
+featured: true
 draft: false
 tags:
   - ed
