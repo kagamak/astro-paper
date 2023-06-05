@@ -2,7 +2,7 @@
 author: Emelie Nguyen
 pubDatetime: 2023-04-10T15:20:35Z
 title: Getting it Done
-postSlug: ""
+postSlug: getting-it-done
 featured: false
 draft: false
 tags:
