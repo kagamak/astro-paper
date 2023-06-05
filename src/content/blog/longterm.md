@@ -1,7 +1,7 @@
 ---
 author: Emelie Nguyen
 pubDatetime: 2023-05-15T23:43:24Z
-title: Fueling Productivity for Sustainable Success
+title: The Fable of Sustainable Success
 postSlug: fueling-productivity
 featured: false
 draft: false
